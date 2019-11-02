@@ -1,0 +1,34 @@
+
+.body{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+ .my-custom-container
+ {
+        width:500px;
+ }
+
+ .container
+ {
+     width:100vw;
+     height: 100vh;
+
+ }
+ .bg {
+     height: 100%;
+     background-image: url("../img/twitter.jpg");
+     background-size: cover;
+     background-repeat: repeat;
+     background-position: center;
+
+
+
+ }
+.section{
+    width: 100%;
+}
+ .all-help{
+     color: black;
+     font-size: 10px;
+ }
